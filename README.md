@@ -1,4 +1,4 @@
-<h1 align="center">🌲 Linktree</h1>
+<h1 align="center">🌲 Devlinks Tree</h1>
 <h3 align="center">Linktree is a popular platform that enables users to create a consolidated landing page for all their important links, such as social media profiles, websites, online stores, and more. </h3>
 
 <p align="center">
