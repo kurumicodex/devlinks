@@ -44,9 +44,9 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-- Change the Account Social, name, bio, links and texts in the data/config.ts file.
-- Change the Api Spotify And Discord in the components/discord & NowPlaying.tsx file.
-- To change the background, go to the app/global.css Paste Your Link Background On Line 8.
+- Change the Account Social, name, bio, links and texts in the `data/config.ts` file.
+- Change the Api Spotify And Discord in the `components/discord & NowPlaying.tsx` file.
+- To change the background, go to the `app/global.css` Paste Your Link Background On Line 8.
 
 ## 🤔 How to contribute
 
