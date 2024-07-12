@@ -24,9 +24,9 @@
 - CSS
 - Vite
 
-![My Skills](https://skillicons.dev/icons?i=vue,ts,html,css,vite)
+![Use](https://skillicons.dev/icons?i=vue,ts,html,css,vite)
 
-### 📃 Documentation Complementares
+### 📃 Documentation
 
 - [Documentation Vue.js](https://vuejs.org/)
 - [Documentation TypeScript](https://www.typescriptlang.org/)
@@ -38,7 +38,7 @@ First, run the development server:
 ```
 npm install
 ```
-# And
+and run 
 ```
 npm run dev
 ```
