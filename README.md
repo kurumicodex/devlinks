@@ -26,9 +26,10 @@ This is an open source project that serves as a free alternative to the Linktree
 First, run the development server:
 
 ```
-bash
 npm install
-# And 
+```
+# And
+```
 npm run dev
 ```
 
