@@ -16,12 +16,22 @@
 
 ---
 
-## 💡 About the project
+## 🛠️ About the project
 
-This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://www.kurumicodex.com/project/github/linktree)
+- Vue.js
+- TypeScript
+- HTML
+- CSS
+- Vite
 
-## 🚀 Getting started
+![My Skills](https://skillicons.dev/icons?i=vue,ts,html,css,vite)
+
+### 📃 Documentation Complementares
+
+- [Documentation Vue.js](https://vuejs.org/)
+- [Documentation TypeScript](https://www.typescriptlang.org/)
+
+## 🚀 How To Setup
 
 First, run the development server:
 
